@@ -1,11 +1,10 @@
 # Frontend Mentor - Order summary card solution
 
-Esta é uma solução para o [desafio do cartão de resumo do pedido no Frontend Mentor] (https://www.front//or.io/challenges/order-summary-component-QlPmajDUj). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
-
-### Projeto concluido
 <p aling="center" >
   <img width="1000" src="./img/projetoConcluido.PNG"/>
- </p>
+</p>
+
+Esta é uma solução para o [desafio do cartão de resumo do pedido no Frontend Mentor] (https://www.front//or.io/challenges/order-summary-component-QlPmajDUj). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
 ### Links
 
