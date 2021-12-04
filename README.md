@@ -2,7 +2,7 @@
 
 Esta é uma solução para o [desafio do cartão de resumo do pedido no Frontend Mentor] (https://www.front//or.io/challenges/order-summary-component-QlPmajDUj). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
-![Visualização do design para o desafio de codificação do cartão de resumo do pedido] (./Img / projetoConcluido.png)
+![Visualização do design para o desafio de codificação do cartão de resumo do pedido] (./Img/projetoConcluido.png)
 
 ### Links
 
