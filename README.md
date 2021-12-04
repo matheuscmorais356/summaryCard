@@ -8,7 +8,7 @@ Esta é uma solução para o [desafio do cartão de resumo do pedido no Frontend
 
 ### Links
 
-- Clique aqui -> [URL da soolução](https://matheuscmorais356.github.io/summaryCard)
+- Clique aqui -> [URL da solução](https://matheuscmorais356.github.io/summaryCard)
 
 ### Construido com
 
@@ -19,6 +19,6 @@ Esta é uma solução para o [desafio do cartão de resumo do pedido no Frontend
 
 ## Autor
 
-- Git - [Matheus Cardsoso Morais](https://github.com/matheuscmorais356)
+- Git - [Matheus Cardoso Morais](https://github.com/matheuscmorais356)
 - Linkedin - [Matheus Cardoso](https://www.linkedin.com/in/matheus-cardoso-4442b5206)
 
