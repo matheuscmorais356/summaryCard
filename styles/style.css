@@ -15,7 +15,7 @@
 }
 
 html {
-    background-image: url('../img/pattern-background-desktop.svg');
+    background-image: url('../img/pattern-background-desktop.svg') / cover;
     background-repeat: no-repeat;
     font-size: 62.5%;
     min-height: 100%;
